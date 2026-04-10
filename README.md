@@ -1,4 +1,4 @@
-# Head Tracker
+# Head Tracking
 
 A desktop app that uses your webcam to track head movements and maps them to keyboard/mouse actions. Read a book in the browser, scroll through slides, or navigate pages — all hands-free.
 

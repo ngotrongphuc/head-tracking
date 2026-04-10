@@ -2,6 +2,7 @@
   "name": "head-tracking",
   "version": "1.0.0",
   "description": "Desktop app that tracks head movements and maps them to system actions",
+  "author": "ngotrongphuc",
   "main": "./out/main/index.js",
   "scripts": {
     "dev": "electron-vite dev",

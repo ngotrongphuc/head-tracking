@@ -38,7 +38,7 @@ function createWindow(): void {
       sandbox: false,
       backgroundThrottling: false
     },
-    title: 'Head Tracker',
+    title: 'Head Tracking',
     autoHideMenuBar: true,
     backgroundColor: '#09090b'
   })

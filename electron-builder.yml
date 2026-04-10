@@ -1,5 +1,5 @@
 appId: com.headtracking.app
-productName: Head Tracker
+productName: Head Tracking
 directories:
   buildResources: build
   output: dist

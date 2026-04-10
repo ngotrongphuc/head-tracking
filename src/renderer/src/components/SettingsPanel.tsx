@@ -26,7 +26,7 @@ export function SettingsPanel({ tracking }: Props) {
   return (
     <div className="flex flex-col gap-6 p-4">
       <div>
-        <h1 className="text-lg font-semibold tracking-tight">Head Tracker</h1>
+        <h1 className="text-lg font-semibold tracking-tight">Head Tracking</h1>
         <p className="text-xs text-zinc-500 mt-0.5">Control your PC with head movements</p>
       </div>
 
